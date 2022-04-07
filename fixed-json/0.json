@@ -1,0 +1,39 @@
+{
+    "name": "420Boi",
+    "symbol": "FOS",
+    "description": "The Founders of Solana are a collection of 333, hand-drawn art pieces transformed into NFTs. Will you join the them?",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Rank",
+            "value": "Epic"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "GA4w265CKgkrQHv4j2GXCnMzYzEi9wxHeTypNbWUSFde",
+                "share": 3.5
+            },
+            {
+                "address": "9Bdff4w7chCoa4fhosbSAPxtNAM9bQKzGtVyakZuKXFB",
+                "share": 3.5
+            },
+            {
+                "address": "8dWUi6sJMNAGmY774qBc4Gp6ceVNziidcsQXK6z7NmFT",
+                "share": 3.5
+            }
+        ],
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    },
+    "collection": {
+        "name": "Founders of Solana",
+        "family": "Founders"
+    }
+}
